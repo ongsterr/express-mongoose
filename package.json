@@ -1,0 +1,15 @@
+{
+  "name": "dogshop",
+  "version": "1.0.0",
+  "description": "Building a dogshop using express, mongodb throught mongoose",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "./build.sh"
+  },
+  "keywords": [
+    "dogs"
+  ],
+  "author": "chrisongg",
+  "license": "ISC"
+}
